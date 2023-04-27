@@ -75,7 +75,7 @@ main {
     }
 
     .description{
-        padding: 0;
+        padding: 10px;
     }
 
     .description h1,p {
