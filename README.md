@@ -24,10 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Web capture_27-4-2023_114820_](https://user-images.githubusercontent.com/124421807/234841394-935d3f6c-1354-404f-94fb-50b1c0af789e.jpeg)
 
-
-
+![Web capture_27-4-2023_11509_](https://user-images.githubusercontent.com/124421807/234841205-fbb84591-f0ca-44c8-8ed1-d0a38f0dbaca.jpeg)
 
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
